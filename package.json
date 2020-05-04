@@ -1,0 +1,31 @@
+{
+  "name": "webrtc-signaling-server",
+  "version": "1.0.0",
+  "description": "Very Less code to install a signaling server, please visit technicalheist.com for more information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/technicalheist/webrtc-signaling-server.git"
+  },
+  "keywords": [
+    "WebRTC",
+    "Signaling",
+    "Server",
+    "Signaling-Server",
+    "technicalheist",
+    "technicalheist.com"
+  ],
+  "author": "TechnicalHeist",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/technicalheist/webrtc-signaling-server/issues"
+  },
+  "homepage": "https://github.com/technicalheist/webrtc-signaling-server#readme",
+  "dependencies": {
+    "webrtc-signaling-helpers": "^1.0.1"
+  }
+}
